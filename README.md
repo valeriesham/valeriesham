@@ -12,9 +12,8 @@ Software Developer
 * 🚀  I'm currently working on [an e-commerce Django application](http://github.com/valeriesham/ecommerce)
 * 🧠  I'm learning algorithms and data structures (technical interview prep), going through Harvard's CS50 course on EdX to catch up on computer science fundamentals, and deepening my React skills through the "The Joy of React" course by Josh Comeau.
 * 🤝  I'm open to collaborating on open-source projects (currently starting my open-source journey with Oppia), volunteer coding projects (I just started volunteering for Mass Energize as a Django software developer), and any other cool opportunities :)
-* ⚡  Aside from finishing Hack Reactor, my biggest achievement in life was being a part of bicycle ride across the United States from NYC to San Francisco as part of a student organization Illini 4000. As a result of our ride, we raised over $130,000 for cancer charities as a team!
-* :camping: In my free time outside of coding, I love to spend time in nature, read, go to dance classes, go on bicycle rides, and cook. 
 * :bike: Aside from finishing Hack Reactor, my biggest achievement in life was being a part of bicycle ride across the United States from NYC to San Francisco as part of a student organization Illini 4000. As a result of our ride, we raised over $130,000 for cancer charities as a team!
+* :camping: In my free time outside of coding, I love to spend time in nature, read, go to dance classes, go on bicycle rides, and cook. 
 :airplane: My next planned adventure is going to Mexico for two months starting in October to volunteer at a local animal shelter (while continuing to code the whole time throughout, of course :wink:).
 * :exclamation: NOTE: During my time at Hack Reactor, the students were required to use GitLab for all of our projects. As a result, all of my Hack Reactor projects are housed there and can be found through this **[link](https://gitlab.com/valeriesham)**. However, now I am planning to use GitHub for my future projects and contributions :)
 
